@@ -13,5 +13,12 @@ namespace GitHubTest2013_2
             //alialiuja
             // do some fix here
         }
+
+        public void mainMethod()
+        {
+            // we do new feature stuff here
+            // some more stuff to do
+            // done feature
+        }
     }
 }
