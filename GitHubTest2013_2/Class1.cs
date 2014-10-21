@@ -12,5 +12,10 @@ namespace GitHubTest2013_2
         {
             //alialiuja
         }
+
+        public void mainMethod()
+        {
+            // we do new feature stuff here
+        }
     }
 }
