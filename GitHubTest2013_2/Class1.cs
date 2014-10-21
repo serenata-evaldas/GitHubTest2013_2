@@ -17,6 +17,7 @@ namespace GitHubTest2013_2
         {
             // we do new feature stuff here
             // some more stuff to do
+            // done feature
         }
     }
 }
