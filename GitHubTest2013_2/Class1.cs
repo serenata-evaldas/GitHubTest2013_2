@@ -10,7 +10,7 @@ namespace GitHubTest2013_2
     {
         public void someMet()
         {
-            Console.WriteLine("do something");
+
         }
     }
 }
