@@ -8,5 +8,9 @@ namespace GitHubTest2013_2
 {
     public class Class1
     {
+        public void someMet()
+        {
+
+        }
     }
 }
