@@ -10,7 +10,7 @@ namespace GitHubTest2013_2
     {
         public void someMet()
         {
-            //alialiuja
+            //alialiuja new fix
             // do some fix here
         }
 
