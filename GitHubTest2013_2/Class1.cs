@@ -16,12 +16,9 @@ namespace GitHubTest2013_2
 
         public void mainMethod()
         {
-            // we do new feature stuff here
-            // some more stuff to do
-            // done feature
-            // add new dev change
-            // another change
-			// F2 new change
+
+		// F2 new change
+		// F1 fresh start
         }
     }
 }
