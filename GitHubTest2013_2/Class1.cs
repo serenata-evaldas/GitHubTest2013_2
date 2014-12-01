@@ -12,6 +12,7 @@ namespace GitHubTest2013_2
         {
             //alialiuja new fix merged
             // do some fix here
+			//F2 change
         }
 
         public void mainMethod()
