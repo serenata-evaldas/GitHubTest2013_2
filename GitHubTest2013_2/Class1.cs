@@ -21,7 +21,6 @@ namespace GitHubTest2013_2
             // done feature
             // add new dev change
             // another change
-			// F2 new change
         }
     }
 }
