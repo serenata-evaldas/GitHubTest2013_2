@@ -8,9 +8,6 @@ namespace GitHubTest2013_2
 {
     public class Class1
     {
-		public void doStuff(){
-		}
-	
         public void someMet()
         {
             //alialiuja new fix merged
