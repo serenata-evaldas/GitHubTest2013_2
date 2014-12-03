@@ -11,8 +11,7 @@ namespace GitHubTest2013_2
         public void someMet()
         {
             //alialiuja new fix merged
-            // do some fix here
-	    //F1 fresh start
+	    //F1 fresh start 1
         }
 
         public void mainMethod()
